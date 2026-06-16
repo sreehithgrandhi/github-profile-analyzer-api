@@ -92,6 +92,7 @@ const getAllProfiles = (req, res) => {
 
     db.query(query, (err, results) => {
         if (err) {
+            console.log(err);
             return res.status(500).json({
                 message: "Database Error"
             });
