@@ -210,8 +210,4 @@ The application stores the following insights:
 * GitHub Profile URL
 * Analysis Timestamp
 
----
 
-## Author
-
-Developed as part of a Node.js Internship Assignment.
